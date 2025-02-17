@@ -23,7 +23,6 @@ class SumNaturalNumForLoop{
                 System.out.println("There is No matc");
             }
         }
-
         sc.close();
     }
 }

@@ -8,5 +8,6 @@ class HandshakeProblem {
         int maxHandshakes = (numberOfStudents * (numberOfStudents - 1)) / 2;
 
         System.out.printf("The maximum number of possible handshakes among %d students is %d\n", numberOfStudents, maxHandshakes);
+    sc.close();
     }
 }

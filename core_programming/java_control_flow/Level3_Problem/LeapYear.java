@@ -19,7 +19,7 @@ public class LeapYear{
             }
         } 
         else {
-            return year + " is NOT a Leap Year.";
+            return year + " is NOT a LeapYear.";
         }
     }
     public static void main(String[] args) {

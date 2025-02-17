@@ -22,6 +22,5 @@ class AverageAndPercentMark{
         double percentage = ((double)marksObtained/maxMark)*100;
         System.out.println("Sam percentage in PCM : "+percentage+"%");
 
-
     }
 }
